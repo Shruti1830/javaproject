@@ -1,4 +1,4 @@
-REPORT
+		REPORT
 Project name:-Student Classified And Search
 
 
@@ -99,34 +99,35 @@ because it helps to find bugs before integration testing is carried out.
 
 6.User Validation 
 Login page
-![ ](images/1.png) 
+![ ](images/2.png) 
 
 shows the user validation page. In the event that a user who intends to have access to the system but 
 ends up inputting a wrong username or password, the system displays a warning message showing “Invalid 
 Username or Password”. 
 Login page Validation diagram:-
-
+![ ](images/1.0.png)
 Servlet connectivity with Database:-
-
+![ ](images/1.png)
 
 First Page after successful login:-
- 
+![ ](images/3.png)
 
 Student Detail page:-
- 
+![ ](images/4.png)
 
 
 
 
 Update page:-
- 
+![ ](images/5.png) 
+![ ](images/6.png)
 
 
  
 
 Delete Student Record page:-
- 
-
+![ ](images/7.png) 
+![ ](images/8.png)
  
 
 
@@ -134,7 +135,8 @@ Delete Student Record page:-
 
 
 7.Registration Page:-
- 
+![ ](images/9.png) 
+
 shows the registration verification after a user has successfully filled in the boxes with the appropriate 
 information. The system returns a message to the user showing the left blank boxes to fill and a “Registration 
 successful, proceed to login” message if all boxes are filled correctly. This information is stored in the database 
@@ -149,4 +151,4 @@ properties (Atomicity, consistency, isolation and durability) of a database mana
  
 Database connectivity diagram:-
  
-
+![ ](images/10.png)
