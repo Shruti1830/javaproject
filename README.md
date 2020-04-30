@@ -113,21 +113,21 @@ First Page after successful login:-
 ![ ](images/3.png)
 
 Student Detail page:-
-![ ](images/4.png)
+![ ](images/6.png)
 
 
 
 
 Update page:-
-![ ](images/5.png) 
-![ ](images/6.png)
+![ ](images/7.png) 
+![ ](images/8.png)
 
 
  
 
 Delete Student Record page:-
-![ ](images/7.png) 
-![ ](images/8.png)
+![ ](images/9.png) 
+![ ](images/10.png)
  
 
 
@@ -135,7 +135,7 @@ Delete Student Record page:-
 
 
 7.Registration Page:-
-![ ](images/9.png) 
+![ ](images/4.png) 
 
 shows the registration verification after a user has successfully filled in the boxes with the appropriate 
 information. The system returns a message to the user showing the left blank boxes to fill and a “Registration 
@@ -151,4 +151,4 @@ properties (Atomicity, consistency, isolation and durability) of a database mana
  
 Database connectivity diagram:-
  
-![ ](images/10.png)
+![ ](images/11.png)
