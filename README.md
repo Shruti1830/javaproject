@@ -25,19 +25,32 @@ Features:
 
 2.Technical terms 
 Objective Of the Project
+
 •	Faster processing time and more accurate data for student requests and reimbursements
+
 •	Ability for Students to track authorization and reimbursement request status through the system rather than via phone calls or campus mail
+
 •	Major technological upgrades to the current Student system
+
 •	Use of IU's standardized, virtual J2EE environments
+
 •	Many new features and enhancements
+
 Installation/Configuration Steps
+
 •	Download zip file from https://github.com/Shruti1830/javaproject.git
+
 •	Copy and Paste the unzip files inside the workspace folder
+
 Database Configuration:
+
 •	Create a new database named “Student”.
+
 •	Import database management.sql file through MySQL
 Run/Execute 
+
 •	Open Your Web Browser
+
 •	Put/type inside the web browser : "localhost/Student"
 Admin Login
 •	Open Your Web Browser
@@ -86,13 +99,13 @@ because it helps to find bugs before integration testing is carried out.
 
 6.User Validation 
 Login page
- 
+![ ](images/1.png) 
 
 shows the user validation page. In the event that a user who intends to have access to the system but 
 ends up inputting a wrong username or password, the system displays a warning message showing “Invalid 
 Username or Password”. 
 Login page Validation diagram:-
- 
+
 Servlet connectivity with Database:-
 
 
